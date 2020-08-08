@@ -1,0 +1,2 @@
+# php-singleton
+PHP Singleton
